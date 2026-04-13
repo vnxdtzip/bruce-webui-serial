@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(node --check /home/vnx/Documentos/bruce/static/serial-bridge.js)",
-      "Bash(node --check /home/vnx/Documentos/bruce/serial-bridge.js)"
-    ]
-  }
-}
